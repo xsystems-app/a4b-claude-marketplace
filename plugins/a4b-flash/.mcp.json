@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "a4b": {
+    "a4b-flash": {
       "type": "sse",
       "url": "https://api.agents4business.com/mcp/a4b"
     }
