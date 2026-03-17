@@ -1,0 +1,27 @@
+{
+  "name": "a4b-marketplace",
+  "owner": {
+    "name": "Agentes 4 Business",
+    "email": "contato@agents4business.com"
+  },
+  "metadata": {
+    "description": "Marketplace oficial de plugins Agentes 4 Business",
+    "version": "1.0"
+  },
+  "plugins": [
+    {
+      "name": "a4b-placas",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/xsystems-app/a4b-claude-marketplace.git",
+        "path": "plugins/a4b-placas"
+      },
+      "description": "Plugin de teste — gera placas de veículos aleatórias via MCP",
+      "version": "0.1.0",
+      "author": {
+        "name": "Agentes 4 Business",
+        "email": "contato@agents4business.com"
+      }
+    }
+  ]
+}
