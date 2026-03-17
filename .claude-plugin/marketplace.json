@@ -17,7 +17,7 @@
         "path": "plugins/a4b-placas"
       },
       "description": "Plugin de teste — gera placas de veículos aleatórias via MCP",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "author": {
         "name": "Agentes 4 Business",
         "email": "contato@agents4business.com"
@@ -31,7 +31,7 @@
         "path": "plugins/a4b-flash"
       },
       "description": "Plugin Flash Benefícios — gestão de colaboradores, benefícios e ponto",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "author": {
         "name": "Agentes 4 Business",
         "email": "contato@agents4business.com"
