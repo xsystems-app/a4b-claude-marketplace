@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "a4b": {
+      "type": "sse",
+      "url": "${A4B_MCP_URL}/mcp/a4b",
+      "headers": {
+        "Authorization": "Bearer ${A4B_API_KEY}"
+      }
+    }
+  }
+}

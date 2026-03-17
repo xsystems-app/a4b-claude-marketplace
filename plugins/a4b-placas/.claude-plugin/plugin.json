@@ -1,0 +1,11 @@
+{
+  "name": "a4b-placas",
+  "version": "0.1.0",
+  "description": "Identificador de placas de veículos — plugin de teste A4B",
+  "author": {
+    "name": "Agentes 4 Business",
+    "email": "contato@agents4business.com"
+  },
+  "homepage": "https://agents4business.com",
+  "repository": "https://github.com/xsystems-app/a4b-claude-marketplace"
+}
