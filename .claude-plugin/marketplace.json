@@ -22,6 +22,20 @@
         "name": "Agentes 4 Business",
         "email": "contato@agents4business.com"
       }
+    },
+    {
+      "name": "a4b-flash",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/xsystems-app/a4b-claude-marketplace.git",
+        "path": "plugins/a4b-flash"
+      },
+      "description": "Plugin Flash Benefícios — gestão de colaboradores, benefícios e ponto",
+      "version": "0.1.0",
+      "author": {
+        "name": "Agentes 4 Business",
+        "email": "contato@agents4business.com"
+      }
     }
   ]
 }

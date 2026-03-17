@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "a4b": {
+      "type": "sse",
+      "url": "https://26ff-2804-58b0-12c-9201-444a-b88a-5a90-bb94.ngrok-free.app/mcp/a4b"
+    }
+  }
+}
