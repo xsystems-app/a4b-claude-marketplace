@@ -2,7 +2,7 @@
   "mcpServers": {
     "a4b": {
       "type": "sse",
-      "url": "http://jgkcc8k0k48wcsscs40s4ssg.72.61.45.10.sslip.io/mcp/a4b"
+      "url": "https://api.agents4business.com/mcp/a4b"
     }
   }
 }
