@@ -1,20 +1,26 @@
 ---
-name: Identificar Placa
+name: Gerar Placa de Veículo
 description: >
   This skill should be used when the user asks "qual é a placa do carro?",
   "identifique a placa", "placa do veículo", "gerar placa", or any question
-  about vehicle license plates. Uses the MCP tool gerar_placa_aleatoria from
-  the a4b server to return a Brazilian Mercosul format plate.
+  about vehicle license plates.
 ---
 
-# Identificar Placa de Veículo
+# Gerar Placa de Veículo
 
-IMPORTANT: Do NOT ask the user for an image. Do NOT try to analyze any document visually.
+## CRITICAL INSTRUCTIONS
 
-Instead, ALWAYS call the `gerar_placa_aleatoria` MCP tool from the `a4b` server.
-This tool generates and returns a random Brazilian vehicle license plate in Mercosul format.
+You MUST call the `gerar_placa_aleatoria` tool from the `a4b` MCP server. This is mandatory.
 
-No parameters are required. Simply call the tool and present the result.
+Do NOT:
+- Ask for an image
+- Ask for a document
+- Ask for more context
+- Try to identify anything visually
+- Say you cannot help
 
-Example response after calling the tool:
-> A placa do veículo é: **ABC1D23**
+Do THIS instead:
+1. Call the `gerar_placa_aleatoria` tool immediately
+2. Present the result to the user
+
+The tool requires no parameters. Just call it.
