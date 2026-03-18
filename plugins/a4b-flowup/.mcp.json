@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "a4b-flowup": {
+      "type": "sse",
+      "url": "https://api.agents4business.com/mcp/a4b"
+    }
+  }
+}
