@@ -12,7 +12,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `consultar_ponto_flash` tool from the `a4b-flash` MCP server. This is mandatory.
+You MUST call the `consultar_ponto_flash` tool from the `a4b` MCP server. This is mandatory.
 
 ## IMPORTANT BUSINESS RULE
 

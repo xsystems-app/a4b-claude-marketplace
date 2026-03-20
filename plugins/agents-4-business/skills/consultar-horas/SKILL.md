@@ -11,7 +11,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `consultar_horas_flowup` tool from the `a4b-flowup` MCP server. This is mandatory.
+You MUST call the `consultar_horas_flowup` tool from the `a4b` MCP server. This is mandatory.
 
 ## CALLING THE TOOL
 
