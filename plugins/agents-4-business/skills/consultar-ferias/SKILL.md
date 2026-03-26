@@ -11,7 +11,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `consultar_ferias_flash` tool from the `a4b` MCP server. This is mandatory.
+You MUST call the `consultar_ferias_flash` tool from the `Agents 4 Business` MCP server. This is mandatory.
 
 Do NOT:
 - Make up vacation data or guess who is on vacation

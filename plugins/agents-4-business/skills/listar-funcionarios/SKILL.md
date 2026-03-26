@@ -11,7 +11,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `listar_funcionarios_flash` tool from the `a4b` MCP server. This is mandatory.
+You MUST call the `listar_funcionarios_flash` tool from the `Agents 4 Business` MCP server. This is mandatory.
 
 Do NOT:
 - Try to list employees from memory or make up employee data

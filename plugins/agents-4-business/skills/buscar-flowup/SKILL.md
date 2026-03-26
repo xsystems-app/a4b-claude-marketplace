@@ -12,7 +12,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `buscar_flowup` tool from the `a4b` MCP server. This is mandatory.
+You MUST call the `buscar_flowup` tool from the `Agents 4 Business` MCP server. This is mandatory.
 
 ## CALLING THE TOOL
 

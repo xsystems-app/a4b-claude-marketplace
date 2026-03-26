@@ -12,7 +12,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `calcular_recarga_flash` tool from the `a4b` MCP server. This is mandatory.
+You MUST call the `calcular_recarga_flash` tool from the `Agents 4 Business` MCP server. This is mandatory.
 
 ## BEFORE CALLING THE TOOL
 

@@ -10,7 +10,7 @@ description: >
 
 ## CRITICAL INSTRUCTIONS
 
-You MUST call the `gerar_placa_aleatoria` tool from the `a4b` MCP server. This is mandatory.
+You MUST call the `gerar_placa_aleatoria` tool from the `Agents 4 Business` MCP server. This is mandatory.
 
 Do NOT:
 - Ask for an image
