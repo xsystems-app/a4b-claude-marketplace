@@ -6,13 +6,10 @@ Conecte o Claude aos sistemas da sua empresa — RH, projetos, financeiro e mais
 
 | Skill | Descrição | Produto |
 |-------|-----------|---------|
-| Gerar Placa | Gera uma placa de veículo aleatória | Gratuito |
-| Listar Funcionários | Lista funcionários cadastrados no Flash | Flash |
-| Consultar Férias | Consulta férias agendadas no Flash | Flash |
-| Consultar Ponto | Consulta registros de ponto no Flash | Flash |
-| Calcular Recarga | Calcula recargas de benefícios Flash | Flash |
-| Consultar Horas | Consulta horas trabalhadas no FlowUp | FlowUp |
-| Buscar FlowUp | Busca dados de projetos e tarefas no FlowUp | FlowUp |
+| Consultar Flash | Gestão de RH: funcionários, ponto, férias, verbas, benefícios, departamentos, cargos e recarga | Flash |
+| Meus Dados Flash | Dados individuais do usuário: meu ponto, minhas férias, minhas verbas | Flash |
+| Consultar FlowUp | Gestão de projetos: horas por funcionário, projetos, tarefas e usuários | FlowUp |
+| Meus Dados FlowUp | Dados individuais do usuário: minhas horas e minhas tarefas | FlowUp |
 
 ## Configuração
 
