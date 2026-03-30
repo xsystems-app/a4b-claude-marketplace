@@ -1,7 +1,7 @@
 {
   "name": "agents-4-business",
   "description": "Conecte o Claude aos sistemas da sua empresa — RH, projetos, financeiro e mais. Powered by Agents 4 Business.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": { "name": "Agents 4 Business", "email": "contato@agents4business.com" },
   "homepage": "https://agents4business.com",
   "repository": "https://github.com/xsystems-app/a4b-claude-marketplace"
